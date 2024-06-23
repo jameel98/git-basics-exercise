@@ -2,3 +2,9 @@
 hello world
 
 new feature
+
+<<<<<<< HEAD
+dfsdfsdfdf
+=======
+new feature on branch feature
+>>>>>>> feature
